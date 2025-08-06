@@ -1,4 +1,8 @@
-p.intro::first-letter {
-  color: red;
-  font-size: 200%;
+p::first-letter {
+  color: #f00;
+  font-size: xx-large;
+}
+p::first-line {
+  color: #00f;
+  font-variant: small-caps;
 }
