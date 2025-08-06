@@ -1,7 +1,4 @@
-p::before {
-  content: 'orange box';
-  display: block;
-  width: 500px;
-  height: 50px;
-  background-color: orange;
+p::after {
+  content: '. (end paragraph)';
+  color: red;
 }
