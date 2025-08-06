@@ -1,8 +1,4 @@
-p::first-letter {
-  color: #f00;
-  font-size: xx-large;
-}
-p::first-line {
-  color: #00f;
-  font-variant: small-caps;
+::marker {
+  color: red;
+  font-size: 23px;
 }
