@@ -1,7 +1,4 @@
-p::after {
-  content: '. (after box)';
-  display: inline-block;
-  width: 200px;
-  height: 20px;
-  background-color: aquamarine;
+p.intro::first-letter {
+  color: red;
+  font-size: 200%;
 }
